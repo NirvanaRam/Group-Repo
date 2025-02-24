@@ -1,1 +1,19 @@
-This will be a collaboration
+My Capstone Project Idea:
+
+Predicting Credit Card Defaults: 
+A Data-Driven Approach to Financial Risk Management
+
+In today's competitive financial landscape, managing credit risk effectively is paramount. Credit 
+card defaults can result in significant financial losses, disrupt revenue streams, and increase 
+operational costs due to higher capital reserve requirements. Recognising these challenges, this 
+project focuses on predicting credit card defaults through a comprehensive, data-driven 
+approach.
+I chose this research question because it directly addresses a critical business problem: 
+minimising the financial impact of defaults while balancing the risk of denying credit to eligible 
+customers. The data set I will be using provides a rich source of information, including demographic details, 
+credit limits, billing amounts, and historical payment behaviour, making it an ideal candidate for 
+predictive modelling. By applying a combination of advanced data cleaning, feature engineering, 
+and machine learning techniques using Python, I aim to build a robust model that not only predicts
+defaults accurately but also quantifies the cost implications of misclassifications. This integration 
+of technical rigor with business-oriented evaluation ensures that the solution can drive strategic 
+decisions and improve overall financial risk management. (Nirvana Ram)
